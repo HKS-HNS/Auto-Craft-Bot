@@ -1,0 +1,23 @@
+{
+    "name": "minecraft-craft-bot",
+    "version": "1.0.0",
+    "description": "A brief description of your project.",
+    "main": "craftbot.js",
+    "scripts": {
+      "start": "node craftbot.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "HKS-HNS",
+    "dependencies": {
+      "mineflayer": "^4.8.1",
+      "mineflayer-pathfinder": "^2.4.2",
+      "mineflayer-web-inventory": "^1.8.4",
+      "mineflayer-collectblock": "^1.4.1",
+      "mineflayer-auto-eat": "^3.3.6",
+      "vec3" : "^0.1.8",
+      "prismarine-item": "^1.12.1"
+
+
+
+    }
+  }
