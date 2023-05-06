@@ -4,7 +4,7 @@ const inventoryViewer = require('mineflayer-web-inventory');
 const collectBlock = require('mineflayer-collectblock').plugin;
 const autoeat = require('mineflayer-auto-eat').plugin;
 const crafter = require('./crafter.js');
-const crafterraid = require('./crafterraid.js');
+const crafterraid = require('./crafterConfig.js');
 const readline = require('readline');
 
 const bot = mineflayer.createBot({
