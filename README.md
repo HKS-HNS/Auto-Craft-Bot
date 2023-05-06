@@ -19,11 +19,11 @@ Minecraft Auto Craft Bot is a bot developed using Mineflayer library that can be
 
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/HKS-HNS/minecraft-auto-craft-bot.git
+git clone https://github.com/HKS-HNS/auto-craft-bot.git
 ```
 2. Navigate to the project directory:
 ```
-cd minecraft-auto-craft-bot
+cd auto-craft-bot
 ```
 3. Install the dependencies.
 ```
