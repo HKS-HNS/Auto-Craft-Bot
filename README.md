@@ -8,8 +8,8 @@ Minecraft Auto Craft Bot is a bot developed using Mineflayer library that can be
 - Interact with various types of objects, including chests
 
 ## Commands
-- Start <min>: is to start and to set the delay between the crafting and the next start.
-- Say <args>: say something or send a command.
+- Start < min >: is to start and to set the delay between the crafting and the next start.
+- Say < args >: say something or send a command.
 - Quit: ends the script.
 
 ## Getting Started
