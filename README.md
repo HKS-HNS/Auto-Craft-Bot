@@ -39,7 +39,7 @@ npm install
  {name: 'gold_block', chest: [964, 65, -34], storeChest: [946, 65, -34], crafting: true},
  {name: 'iron_block', chest: [967, 65, -34], storeChest: [948, 65, -34], crafting: true}
 ```
-| Chest       | Materials Location |
+| Variable | What they stand for |
 | -----------| ----------------- |
 | `chest`     | Where the materials are |
 | `storeChest` | Where to store them |
