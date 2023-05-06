@@ -9,7 +9,7 @@ async function autocraftloop(bot, mcData, minWait) {
   const delay = 600;
 
   const itemsToCraft = [
-    {name: 'gold_block', chest: [3089, 65, -34], storeChest: [3090, 65, -34], crafting: true}
+    {name: 'gold_block', chest: [964, 65, -34], storeChest: [946, 65, -34], crafting: true}
   ];
 
 
