@@ -35,3 +35,7 @@ cd auto-craft-bot
 npm install
 ```
 4. Add credentials in craftbot.js
+5. Start the bot
+```
+node .\craftbot.js
+```
